@@ -8,7 +8,7 @@ Le but est de toucher le plus de case bleue sans qu'elle touche le bas de l'écr
 - pip 22.0.4
 
 ## Lancer le jeu
-Pour lancer le jeu, dirigez-vous dans le dossier `python` et lancer la commande :
+Pour lancer le jeu, dirigez-vous dans le dossier `Pygame---PianoTile-master` et lancer la commande :
 <br>
 
 
